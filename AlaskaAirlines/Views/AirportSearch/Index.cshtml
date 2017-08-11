@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.15/css/jquery.dataTables.css">
+    <script>
+        $(document).ready(function() {
+            $('#submit').click(function() {
+                var from = $('#from').val();
+                var to = $('#to').val();
+                $.ajax({
+                    url: "http://localhost:41878/AirportSearch/SearchFlights?departure=" + from + "&arrival=" + to,
+                    type: "Get",
+                    success: function(data) {
+                        $('#flightTable').DataTable({
+                            data: data,
+                            columns: [
+                                { "data": "from" },
+                                { "data": "to" },
+                                { "data": "flightNumber" },
+                                { "data": "departs" },
+                                { "data": "arrives" },
+                                { "data": "mainCabinPrice" },
+                                { "data": "firstClassPrice" }
+                            ]
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+    <meta charset="utf-8"/>
+    <title>Alaska Airlines Flight Search Test</title>
+</head>
+<body>
+<div>
+    From Airport: <input id="from" type="text" name="fromAirport"><br>
+    To Airport: <input id="to" type="text" name="toAirport"><br>
+    <button id="submit">Submit</button>
+</div>
+<div>
+    <table id="flightTable" class="display" cellspacing="0" width="100%">
+        <thead>
+        <tr>
+            <th>From</th>
+            <th>To</th>
+            <th>Flight Number</th>
+            <th>Departs</th>
+            <th>Arrives</th>
+            <th>Main Cabin Price</th>
+            <th>First Class Price</th>
+        </tr>
+        </thead>
+    </table>
+</div>
+</body>
+</html>
