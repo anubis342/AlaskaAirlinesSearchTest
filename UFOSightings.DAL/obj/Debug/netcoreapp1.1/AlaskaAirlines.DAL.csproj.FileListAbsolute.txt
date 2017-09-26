@@ -1,0 +1,7 @@
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines.DAL\bin\Debug\netcoreapp1.1\AlaskaAirlines.DAL.deps.json
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines.DAL\bin\Debug\netcoreapp1.1\AlaskaAirlines.DAL.dll
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines.DAL\obj\Debug\netcoreapp1.1\AlaskaAirlines.DAL.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines.DAL\obj\Debug\netcoreapp1.1\AlaskaAirlines.DAL.AssemblyInfo.cs
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines.DAL\bin\Debug\netcoreapp1.1\AlaskaAirlines.DAL.pdb
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines.DAL\obj\Debug\netcoreapp1.1\AlaskaAirlines.DAL.dll
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines.DAL\obj\Debug\netcoreapp1.1\AlaskaAirlines.DAL.pdb

@@ -1,0 +1,9 @@
+C:\Users\Paul\Desktop\interview-exercise-anubis342\solution\UFO Sightings\UFOSightings.BL\bin\Debug\netcoreapp1.1\UFOSightings.BL.deps.json
+C:\Users\Paul\Desktop\interview-exercise-anubis342\solution\UFO Sightings\UFOSightings.BL\obj\Debug\netcoreapp1.1\UFOSightings.BL.AssemblyInfo.cs
+C:\Users\Paul\Desktop\interview-exercise-anubis342\solution\UFO Sightings\UFOSightings.BL\bin\Debug\netcoreapp1.1\UFOSightings.BL.dll
+C:\Users\Paul\Desktop\interview-exercise-anubis342\solution\UFO Sightings\UFOSightings.BL\bin\Debug\netcoreapp1.1\UFOSightings.BL.pdb
+C:\Users\Paul\Desktop\interview-exercise-anubis342\solution\UFO Sightings\UFOSightings.BL\bin\Debug\netcoreapp1.1\UFOSightings.DAL.dll
+C:\Users\Paul\Desktop\interview-exercise-anubis342\solution\UFO Sightings\UFOSightings.BL\bin\Debug\netcoreapp1.1\UFOSightings.DAL.pdb
+C:\Users\Paul\Desktop\interview-exercise-anubis342\solution\UFO Sightings\UFOSightings.BL\obj\Debug\netcoreapp1.1\UFOSightings.BL.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\interview-exercise-anubis342\solution\UFO Sightings\UFOSightings.BL\obj\Debug\netcoreapp1.1\UFOSightings.BL.dll
+C:\Users\Paul\Desktop\interview-exercise-anubis342\solution\UFO Sightings\UFOSightings.BL\obj\Debug\netcoreapp1.1\UFOSightings.BL.pdb

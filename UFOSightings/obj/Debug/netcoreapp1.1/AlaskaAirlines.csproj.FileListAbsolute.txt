@@ -1,0 +1,13 @@
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines\bin\Debug\netcoreapp1.1\AlaskaAirlines.deps.json
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines\bin\Debug\netcoreapp1.1\AlaskaAirlines.runtimeconfig.json
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines\bin\Debug\netcoreapp1.1\AlaskaAirlines.runtimeconfig.dev.json
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines\bin\Debug\netcoreapp1.1\AlaskaAirlines.dll
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines\bin\Debug\netcoreapp1.1\AlaskaAirlines.pdb
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines\obj\Debug\netcoreapp1.1\AlaskaAirlines.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines\obj\Debug\netcoreapp1.1\AlaskaAirlines.AssemblyInfo.cs
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines\obj\Debug\netcoreapp1.1\AlaskaAirlines.dll
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines\obj\Debug\netcoreapp1.1\AlaskaAirlines.pdb
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines\bin\Debug\netcoreapp1.1\AlaskaAirlines.BL.dll
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines\bin\Debug\netcoreapp1.1\AlaskaAirlines.DAL.dll
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines\bin\Debug\netcoreapp1.1\AlaskaAirlines.BL.pdb
+c:\users\paul\documents\visual studio 2017\Projects\AlaskaAirlines\AlaskaAirlines\bin\Debug\netcoreapp1.1\AlaskaAirlines.DAL.pdb
